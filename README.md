@@ -4,5 +4,10 @@ This is a simple SharePoint Hosted App that primarily utilizes Angular and Boots
 Big shout out to him! His sample got me started and running quickly. This sample was presented at the Local Variables user group found here: http://www.meetup.com/localvariables/
 
 ###Notes
-- This sample uses Nuget for JavaScript libraries
-- A task list will be needed in the SharePoint host web 
+- This sample uses NuGet packages for retrieval of the following JavaScript libraries:
+  - AngularJS UI Bootstrap
+  - AngularJS Core
+  - Bootstrap
+  - jQuery
+  - Moment.js
+- A task list app will need to be created in the SharePoint host web 
