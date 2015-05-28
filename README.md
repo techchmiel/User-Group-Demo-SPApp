@@ -1,2 +1,8 @@
 # User-Group-Demo-SPApp
-Simple SharePoint Hosted App utilizing Angular and Bootstrap.
+This is a simple SharePoint Hosted App that primarily utilizes Angular and Bootstrap. This code sample is based on Jeremy Thake's CompleteMe app found here: https://github.com/OfficeDev/Complete-Me-Code-Sample
+
+Big shout out to him! His sample got me started and running quickly. This sample was presented at the Local Variables user group found here: http://www.meetup.com/localvariables/
+
+###Notes
+- This sample uses Nuget for JavaScript libraries
+- A task list will be needed in the SharePoint host web 
